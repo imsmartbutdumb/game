@@ -1,0 +1,11 @@
+Sitemap: http://agamyacapital.com/sitemap.xml
+
+User-agent: *
+Disallow: /what-we-do1.html
+Disallow: /terms.html
+Disallow: /photo-credits.html
+Disallow: /who-we-are.html
+Disallow: /bk.html
+Disallow: /testimonials-bk.html
+Disallow: /happyholidays.html
+
